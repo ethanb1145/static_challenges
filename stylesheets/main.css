@@ -1,0 +1,36 @@
+h1 {
+  background-color: red;
+  color: white;
+  text-align: left;
+}
+
+h3 {
+  text-align: right;
+  background-color: grey;
+  color: white;
+}
+
+h2 {
+  text-align: left;
+}
+
+body {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+}
+.image {
+  flex: 1;
+  margin: 0 10px;
+}
+
+
+
+
